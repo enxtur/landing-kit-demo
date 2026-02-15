@@ -249,4 +249,5 @@ export default defineSite({
       ],
     },
   },
+  analytics: 'G-BV38XKRNCD',
 });

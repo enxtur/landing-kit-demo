@@ -1,9 +1,9 @@
 import { defineSite } from "@landing-kit/core";
 
 const SITE = {
-  name: "My Product",
-  description: "Simple landing pages, done right. Config in. Static site out.",
-  url: "https://example.com",
+  name: "Landing Kit Demo",
+  description: "Landing pages, done right. Config in. Static site out.",
+  url: "https://landing-kit-demo.vercel.app",
 } as const;
 
 const ROUTES = {
